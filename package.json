@@ -1,0 +1,22 @@
+{
+  "name": "assistente-telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1681.0",
+    "axios": "^1.7.4",
+    "date-and-time": "^3.5.0",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.9"
+  }
+}
